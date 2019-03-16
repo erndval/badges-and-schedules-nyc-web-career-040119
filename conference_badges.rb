@@ -3,5 +3,5 @@ def badge_maker(name)
 end
   
   def batch_badge_creator(list_of_names)
-    
+    number_of_speakers = list_of_names
 end
