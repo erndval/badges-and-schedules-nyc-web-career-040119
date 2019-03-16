@@ -4,4 +4,6 @@ end
   
   def batch_badge_creator(list_of_names)
     list_of_names.each do |speaker|
+      "Hello, my name is #{speaker}"
+    end
 end
