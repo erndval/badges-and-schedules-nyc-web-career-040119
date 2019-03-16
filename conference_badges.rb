@@ -9,3 +9,5 @@ end
     end
     return list_of_badges
 end
+
+def assign_rooms
