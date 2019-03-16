@@ -10,4 +10,8 @@ end
     return list_of_badges
 end
 
-def assign_rooms
+def assign_rooms(list)
+  list_of_rooms = []
+  list.each_with_index do |guest|
+    list_of_rooms.push("Hell, you'll be assigned to room ")
+end
