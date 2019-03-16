@@ -18,6 +18,6 @@ def assign_rooms(list)
   return list_of_rooms
 end
 
-def printer
+def printer(list)
   puts
 end
