@@ -2,7 +2,7 @@ def badge_maker(name)
   return "Hello, my name is #{name}."
 end
   
-  def batch_badge_creator(list_of_names)
+  def batch_badge_creator(list)
     list_of_badges = []
     list_of_names.each do |speaker|
       list_of_badges.push("Hello, my name is #{speaker}.")
