@@ -7,4 +7,5 @@ end
     list_of_names.each do |speaker|
       list_of_badges.push("Hello, my name is #{speaker}.")
     end
+    return list_of_badges
 end
